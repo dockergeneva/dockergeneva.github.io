@@ -1,4 +1,4 @@
-This is the website for Docker Geneva User Group
+This is the Website for Docker Geneva User Group
 
 This website is based on 'Strongly Typed by HTML5 UP' html5up.net | @n33co
 
